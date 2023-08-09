@@ -85,8 +85,8 @@ git clone https://github.com/ShaanCoding/ReadME-Generator.git
 ```sh
 cd wifi-dos
 
-2. run the project as sudo
+3. run the project as sudo
 ```sh
 sudo python3 wifi-dos.py
 
-3. Have fun!
+4. Have fun!
