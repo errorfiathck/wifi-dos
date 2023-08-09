@@ -81,10 +81,19 @@ This program has no pre-requisites
 git clone https://github.com/ShaanCoding/ReadME-Generator.git
 ```
 
-2. cd to directory & run the project
+2. cd to directory
 ```sh
 cd wifi-dos
+```
 
+3. run the project as sudo
+```sh
 sudo python3 wifi-dos.py
+```
 
-Have fun!
+4. Have fun!
+
+## License
+
+Distributed under the MIT License. See [LICENSE]([https://github.com/ShaanCoding/ReadME-Generator/blob/main/LICENSE.md](https://github.com/errorfiathck/wifi-dos/blob/main/LICENSE)https://github.com/errorfiathck/wifi-dos/blob/main/LICENSE) for more information.
+
