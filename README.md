@@ -95,5 +95,5 @@ sudo python3 wifi-dos.py
 
 ## License
 
-Distributed under the MIT License. See [LICENSE]([https://github.com/ShaanCoding/ReadME-Generator/blob/main/LICENSE.md](https://github.com/errorfiathck/wifi-dos/blob/main/LICENSE)https://github.com/errorfiathck/wifi-dos/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See ![LICENSE]([https://github.com/ShaanCoding/ReadME-Generator/blob/main/LICENSE.md](https://github.com/errorfiathck/wifi-dos/blob/main/LICENSE)https://github.com/errorfiathck/wifi-dos/blob/main/LICENSE) for more information.
 
