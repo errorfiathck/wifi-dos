@@ -81,12 +81,10 @@ This program has no pre-requisites
 git clone https://github.com/ShaanCoding/ReadME-Generator.git
 ```
 
-2. cd to directory
+2. cd to directory & run the project
 ```sh
 cd wifi-dos
 
-3. run the project as sudo
-```sh
 sudo python3 wifi-dos.py
 
-4. Have fun!
+Have fun!
